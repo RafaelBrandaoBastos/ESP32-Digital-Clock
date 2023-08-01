@@ -9,8 +9,7 @@ The idea of ​​this project was to use the esp 32 to create a digital clock, 
 * 4 - 1x Oled Display / Screen
 * 5 - 5x Push Button / Main Controls
 
-To receive information about the weather, a DHT11 sensor. To emit the piezo sound, a Active 5v Buzzer.
-
+## Links
 Wokwi Sheet https://wokwi.com/projects/366707216380524545
 
 ![esp1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/84ee342e-9770-457c-b312-f5e2b80624e6)
