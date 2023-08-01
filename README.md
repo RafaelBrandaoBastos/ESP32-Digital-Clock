@@ -9,6 +9,12 @@ The idea of ​​this project was to use the esp 32 to create a digital clock, 
 * 4 - 1x Oled Display / Screen
 * 5 - 5x Push Button / Main Controls
 
+## Commands
+* Black buttons - Previous/Next 
+* Blue button - Mode
+* Green button - Set/Done
+* Red button - Delete/Undo
+
 ## Links
 Wokwi Sheet https://wokwi.com/projects/366707216380524545
 
