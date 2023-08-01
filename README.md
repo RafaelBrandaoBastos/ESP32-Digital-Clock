@@ -1,8 +1,10 @@
 # Esp32Clock
 The idea of ​​this project was to use the esp 32 to create a digital clock, capable of providing information about the time, day, weather and work as an alarm clock. To receive information about date and time, the libraries time.h and wifi.h were used. 
 
-## Components
+## Links
+Wokwi Sheet https://wokwi.com/projects/366707216380524545
 
+## Components
 * 1 - 1x Esp32 
 * 2 - 1x DHT11 Sensor / Weather Monitoring
 * 3 - 1x Active 5v Buzzer / Piezzo Sound Emitter
@@ -14,9 +16,6 @@ The idea of ​​this project was to use the esp 32 to create a digital clock, 
 * Blue button - Mode
 * Green button - Set/Done
 * Red button - Delete/Undo
-
-## Links
-Wokwi Sheet https://wokwi.com/projects/366707216380524545
 
 ![esp1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/84ee342e-9770-457c-b312-f5e2b80624e6)
 
