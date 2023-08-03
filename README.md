@@ -9,7 +9,8 @@ Wokwi Sheet https://wokwi.com/projects/366707216380524545
 * 2 - 1x DHT11 Sensor / Weather Monitoring
 * 3 - 1x Active 5v Buzzer / Piezzo Sound Emitter
 * 4 - 1x Oled Display / Screen
-* 5 - 5x Push Button / Main Controls  
+* 5 - 5x Push Button / Main Controls
+
 ![esp1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/84ee342e-9770-457c-b312-f5e2b80624e6)
 
 ## Commands
