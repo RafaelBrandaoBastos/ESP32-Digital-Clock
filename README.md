@@ -1,4 +1,3 @@
-![p3](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/d4b4a6cb-95e5-4d9f-977a-a956b5b490c4)
 # Esp32Clock
 The idea of ​​this project was to use the esp 32 to create a digital clock, capable of providing information about the time, day, weather and work as an alarm clock. To receive information about date and time, the libraries time.h and wifi.h were used. 
 
