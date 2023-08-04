@@ -1,3 +1,4 @@
+![p3](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/d4b4a6cb-95e5-4d9f-977a-a956b5b490c4)
 # Esp32Clock
 The idea of ​​this project was to use the esp 32 to create a digital clock, capable of providing information about the time, day, weather and work as an alarm clock. To receive information about date and time, the libraries time.h and wifi.h were used. 
 
@@ -21,8 +22,10 @@ Wokwi Sheet https://wokwi.com/projects/366707216380524545
   
 ## Pictures
 #### Main Menu
-![esp2](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/d36ff2ad-9b98-425e-8a47-46704cb439d5)
+![p1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/de7b5115-113e-49ef-ba27-2157bb8817a4)
+
 #### Weather Menu
-![esp3](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/430a894b-e510-457c-968d-5faf19cf3353)
+![p2](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/245042fd-1bc3-4a8e-8da8-0757e2483bea)
+
 #### Alarm Menu
-![esp4](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/50dc2016-a4ac-4d3a-90d5-bf3d31d9a24d)
+![p3](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/7d2e38fe-2b24-4276-b81c-84c7a01f68f7)
