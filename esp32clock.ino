@@ -147,7 +147,6 @@ void loop() {
     alarmTrigger = false;
     alarmHours = 0;
     alarmMinuts = 0;
-    Serial.print("IGUAL");
   }
   if (alarmLoop == true) {
     if(piezoController < 30 || (piezoController > 60 && piezoController < 90) || (piezoController > 120 && piezoController < 150)) {
@@ -159,7 +158,6 @@ void loop() {
     if(piezoController == 210) {
       piezoController = 0;
     }
-    Serial.print("DESPERTADOR");
   }
   if(digitalRead(undoButton) == HIGH && alarmLoop == true) {
     alarmLoop = false;
