@@ -1,6 +1,5 @@
 # Esp32Clock
-The idea of ​​this project was to use the esp 32 to create a digital clock, capable of providing information about the time, day, weather and work as an alarm clock. To receive information about date and time, the libraries time.h and wifi.h were used. 
-
+The idea of ​​this project was to use the esp 32 to create a digital clock, capable of providing information about the time, day, weather and work as an alarm clock.
 ## Links
 Wokwi Sheet https://wokwi.com/projects/366707216380524545
 
