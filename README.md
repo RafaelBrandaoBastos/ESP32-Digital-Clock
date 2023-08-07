@@ -5,7 +5,7 @@ Wokwi Sheet https://wokwi.com/projects/366707216380524545
 
 ## Components
 * 1 - 1x Esp32 
-* 2 - 1x DHT11 Sensor / Weather Monitoring
+* 2 - 1x DHT11/22 Sensor / Weather Monitoring
 * 3 - 1x Active 5v Buzzer / Piezzo Sound Emitter
 * 4 - 1x Oled Display / Screen
 * 5 - 5x Push Button / Main Controls
