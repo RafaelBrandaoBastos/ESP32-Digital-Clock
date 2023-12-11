@@ -19,8 +19,7 @@ Wokwi Sheet https://wokwi.com/projects/366707216380524545
 * Blue button - Mode
 * Green button - Set/Done
 * Red button - Delete/Undo
-  
-## Pictures
+
 #### Main Menu
 ![p1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/de7b5115-113e-49ef-ba27-2157bb8817a4)
 
