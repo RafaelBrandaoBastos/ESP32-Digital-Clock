@@ -7,7 +7,7 @@ The idea of ​​this project is to use the ESP32 to create a digital clock, ca
 * 3 - 1x Active 5v Buzzer / Piezzo Sound Emitter
 * 4 - 1x Oled Display / Screen
 * 5 - 5x Push Button / Main Controls
-Wokwi Sheet https://wokwi.com/projects/366707216380524545
+* 6 - Wokwi Sheet https://wokwi.com/projects/366707216380524545
 
 
 ## Instructions
