@@ -7,11 +7,11 @@ The idea of ​​this project is to use the ESP32 to create a digital clock, ca
 * 3 - 1x Active 5v Buzzer / Piezzo Sound Emitter
 * 4 - 1x Oled Display / Screen
 * 5 - 5x Push Button / Main Controls
-
 Wokwi Sheet https://wokwi.com/projects/366707216380524545
-![esp1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/84ee342e-9770-457c-b312-f5e2b80624e6)
 
-## Commands
+
+## Instructions
+![esp1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/84ee342e-9770-457c-b312-f5e2b80624e6)
 * Black buttons - Previous/Next 
 * Blue button - Mode
 * Green button - Set/Done
