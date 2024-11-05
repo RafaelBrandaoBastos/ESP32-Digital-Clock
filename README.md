@@ -1,5 +1,4 @@
 # Esp32Clock
-![p1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/de7b5115-113e-49ef-ba27-2157bb8817a4)
 The idea of ​​this project is to use the ESP32 to create a digital clock, capable of providing information about the time, date, weather and work as a alarm clock.
 
 ## Components
