@@ -18,11 +18,11 @@ The idea of ​​this project is to use the ESP32 to create a digital clock, ca
 
 ![esp1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/84ee342e-9770-457c-b312-f5e2b80624e6)
 
-### Main Menu
+## Main Menu
 ![p1](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/de7b5115-113e-49ef-ba27-2157bb8817a4)
 
-### Weather Menu
+## Weather Menu
 ![p2](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/245042fd-1bc3-4a8e-8da8-0757e2483bea)
 
-### Alarm Menu
+## Alarm Menu
 ![p3](https://github.com/RafaelBrandaoBastos/Esp32Clock/assets/72472711/7d2e38fe-2b24-4276-b81c-84c7a01f68f7)
